@@ -32,3 +32,14 @@ Para crear una lista desordenada, se pueden hacer de diferentes tipos mediante u
 
 +  Sexta lista desordenada con un signo de suma
 
+Tambien se pueden crear submenus dentro de estas listas dandole al tab y poniendo un numero junto con un punto y un espacio a continuacion o en vez de un numero se puede añadir un asterisco:
+
+* Primera lista desordenada con un asterisco
+    1. Primer submenú con número y punto
+    2. Segundo submenú con número y punto
+
+* Segunda lista desordenada con un asterisco
+    * Tercer submenú con asterisco 
+    * Cuarto submenú con asterisco 
+
+    
