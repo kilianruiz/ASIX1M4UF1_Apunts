@@ -12,7 +12,7 @@ Para escribir un título se utiliza un corchete "#", cuantos mas corchetes se po
 
 ###### Título más pequeño con seis corchetes
 
-Para crear una lista ordenada es tan simmple como poner el numero y un punto a continuacion:
+Para crear una lista ordenada es tan simple como poner el numero y un punto a continuacion:
 
 1. Primera opción de menú
 2. Segunda opción de menú
@@ -42,4 +42,12 @@ Tambien se pueden crear submenus dentro de estas listas dandole al tab y poniend
     * Tercer submenú con asterisco 
     * Cuarto submenú con asterisco 
 
-    
+Para escribir un texto en cursiva se puede hacer de dos maneras, mediante un asterisco al principio y el al final o con una barra baja al inicio y al final de la frase tal como se puede ver en la imagen:
+![Imagen de dos palabras en cursiva](https://github.com/kilianruiz/ASIX1M4UF1_Apunts/blob/main/Captura%20de%20pantalla%202023-10-16%20173048.png)
+
+Para escribir un texto en negrita se puede hacer de dos maneras también, mediante dos asteriscos tanto al principio como al final o con dos barras bajas tanto al principio como al final tal como se puede ver en la imagen:
+![Imagen de dos palabras en negrita](https://github.com/kilianruiz/ASIX1M4UF1_Apunts/blob/main/Captura%20de%20pantalla%202023-10-16%20173114.png)    
+
+Para escribir un texto en cursiba y negrita habra que hacerlo tal como en la foto que hay a contiuación
+![Imagen de un texto en negrita y en cursiva](https://github.com/kilianruiz/ASIX1M4UF1_Apunts/blob/main/Captura%20de%20pantalla%202023-10-16%20173135.png)
+
