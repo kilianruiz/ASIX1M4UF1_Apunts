@@ -59,10 +59,19 @@ Para crear columans hay que hacer tal como en la imagen:
 
 ![Imagen de como crear columnas](https://github.com/kilianruiz/ASIX1M4UF1_Apunts/blob/main/Captura%20de%20pantalla%202023-10-16%20180155.png)
 
-Para aliniar columnas se hace mediante los ":" de tal manera que si no pones anda se alinea solo a la izquierda pero si pones los ":" a los lados se alineará al dentro mientras que si los ponemos al final el texto se alineará a la derecha tal como se ve en la imagen:
+Para aliniar columnas se hace mediante los ":" de tal manera que si no pones anda se alinea solo a la izquierda pero si pones los ":" a los lados se alineará al dentro mientras que si los ponemos al final el texto se alineará a la derecha y para asignar una amplitus a cada columna será mediante giones medios, contra mas "-" mas amplia será y de lo contrario mas estrecha será.
 
 ![Imagen de como alinear textos](https://github.com/kilianruiz/ASIX1M4UF1_Apunts/blob/main/Captura%20de%20pantalla%202023-10-16%20180220.png)
 
 Para poner contenido dentro de estas se habrá que hacer tal como se ve a continuación:
 
 ![Imagen de como rellenar columnas](https://github.com/kilianruiz/ASIX1M4UF1_Apunts/blob/main/Captura%20de%20pantalla%202023-10-16%20180256.png)
+
+De tal manera habiendo seguido los pasos anteriores, una tabla se veria tal que así:
+
+|Primera Columna|Segunda Columna|Tercera Columna|
+|----------|:----------:|------:|
+|Col 2 es|Centrada|35€|
+|Col 3 es|Derecha|134€|
+|Estilo Cebra|Gris|Blanco|
+|Clase|Asix1|M4|
