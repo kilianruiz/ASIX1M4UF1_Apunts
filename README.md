@@ -52,4 +52,5 @@ __*Para escribir un texto en cursiba y negrita habra que hacerlo tal como en la 
 ![Imagen de un texto en negrita y en cursiva](https://github.com/kilianruiz/ASIX1M4UF1_Apunts/blob/main/Captura%20de%20pantalla%202023-10-16%20173135.png)
 
 Para insertar una imagen hay que abrir corchetes para introducir muy brevemente lo que se ve en la imagen, justo depues de los corchetes se abren parentesis y dentro de estos se pone el link de la imagen que tiene que estar subida en nuestro repositorio de github, de tal manera que tendria que quedar tal como en la imagen de a continuación:
+
 ![Imagen de como insertar imagenes](https://github.com/kilianruiz/ASIX1M4UF1_Apunts/blob/main/Captura%20de%20pantalla%202023-10-16%20175347.png)
