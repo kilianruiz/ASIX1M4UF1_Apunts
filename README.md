@@ -1,5 +1,7 @@
 # ASIX1M4UF1A3_Apunts
 
+## Introducción a Markdown
+
 Para escribir un título se utiliza un corchete "#", cuantos mas corchetes se pongan más pequeño será el título con un máximo de hasta 6 corchetes. Ejemplos:
 
 ## Título grande con dos corchetes
@@ -86,3 +88,17 @@ De tal manera que quedaria tal que asi:
 -[ ] Opción A
 -[X] Opción B
 -[ ] Opción C
+
+## Introducción a HTML
+
+```
+Para escribir un párrafo:
+<p>    texto visible    </p>
+
+párrafo con etiqueta:
+<p class=”valor”>     texto visible       </p>
+
+párrafo con contenido en negrita:
+<p>  texto visible  <strong>  texto visible en negrita  <strong>  texto visible  </p>
+
+```
