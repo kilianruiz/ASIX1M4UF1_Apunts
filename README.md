@@ -92,13 +92,18 @@ De tal manera que quedaria tal que asi:
 ## Introducción a HTML
 
 ```
+Para crear un cuerpo de texto para poder escribir
+HTML:5
+```
+
+```
 Para escribir un párrafo:
 <p>    texto visible    </p>
 
-párrafo con etiqueta:
+Para escribir unpárrafo con etiqueta:
 <p class=”valor”>     texto visible       </p>
 
-párrafo con contenido en negrita:
+Para escribir un párrafo con contenido en negrita:
 <p>  texto visible  <strong>  texto visible en negrita  <strong>  texto visible  </p>
 
 ```
