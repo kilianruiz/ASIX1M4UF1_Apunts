@@ -75,3 +75,14 @@ De tal manera habiendo seguido los pasos anteriores, una tabla se veria tal que 
 |Col 3 es|Derecha|134€|
 |Estilo Cebra|Gris|Blanco|
 |Clase|Asix1|M4|
+
+Para crear una lista con casillas:
+```
+-[ ] Opción A
+-[X] Opción B
+-[ ] Opción C
+```
+De tal manera que quedaria tal que asi:
+-[ ] Opción A
+-[X] Opción B
+-[ ] Opción C
