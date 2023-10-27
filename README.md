@@ -95,7 +95,8 @@ De tal manera que quedaria tal que asi:
 Para crear un cuerpo de texto para poder escribir
 HTML:5
 ```
-
+Quedaria tal que asi:
+![Imagen](https://github.com/kilianruiz/ASIX1M4UF1_Apunts/blob/main/1.png)
 ```
 Para escribir un párrafo:
 <p>    texto visible    </p>
