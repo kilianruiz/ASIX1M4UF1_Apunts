@@ -108,3 +108,16 @@ Para escribir un párrafo con contenido en negrita:
 <p>  texto visible  <strong>  texto visible en negrita  <strong>  texto visible  </p>
 
 ```
+
+```
+<html lang=”en”>
+<head> contenido no visible por los visitantes
+<meta charset=“UTF - 8”> añade la (ç, ñ, …)
+<title> texto visible </title>  esto sirve para ponerle nombre a la pestañita de arriba de google
+</head>
+<body> 
+Aquí vendrá todo el contenido de la página visible
+Hay etiquetas de bloque y etiquetas de líneas
+</body>
+</html>
+```
