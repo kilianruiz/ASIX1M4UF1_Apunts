@@ -121,3 +121,50 @@ Hay etiquetas de bloque y etiquetas de líneas
 </body>
 </html>
 ```
+
+```
+Para hacer un título / encabezado se hace con:
+ <h1> texto visible </h1> 
+ <h2> texto visible </h2>
+ <h3> texto visible </h3>
+ <h4> texto visible </h4>
+ <h5> texto visible </h5>
+ <h6> texto visible </h6>
+De modo que contra mas grande sea el número mas pequeña es la tipografia
+
+Para poner en negrita un texto se hace con:
+<strong> texto visible en negrita </strong>
+
+Por ejemplo: si queremos remarcar en negrita una parte de una frase seria tal que asi:
+<li><strong>2 k</strong> de almejas limpias de arena</li>
+
+Para hacer una lista desordenada se hace con:
+<ul>
+    <li>2 dientes de ajo</li>
+    <li>2 cebollas</li>
+    <li>1 hoja de laurel</li>
+</ul>
+
+En cambio para hacer una lista desordenada se hace asi:
+<ol>
+    <li>Primero...</li>
+    <li>A continuacion...</li>
+    <li>Finalmente...</li>
+</ol>
+
+Para escribir un párrafo se hace:
+<p> párrafo visible </p>
+
+Para hacer un espacio se hace con la etiqueta:
+<br>
+
+Para incorporar una imagen es tal que asi:
+ <img src="../img/almejas en agua.webp" alt="almejas en agua" width="200">
+Seleccionas la carpeta donde esta, luego eliges la imagen que quieres poner, justo despues de alt="" entre las comillas pones un titulo que quieras que salga cuando pongas el cursor encima y en width eliges el tamaño de px que quieres que tenga la imagen.
+
+Para poner una linia horizontal separadora se hace con esta etiqueta:
+<hr>
+
+ ```
+
+ 
