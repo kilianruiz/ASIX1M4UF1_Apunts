@@ -120,9 +120,7 @@ Aquí vendrá todo el contenido de la página visible
 Hay etiquetas de bloque y etiquetas de líneas
 </body>
 </html>
-```
 
-```
 Para hacer un título / encabezado se hace con:
  <h1> texto visible </h1> 
  <h2> texto visible </h2>
