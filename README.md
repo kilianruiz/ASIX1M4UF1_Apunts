@@ -107,9 +107,7 @@ Para escribir unpárrafo con etiqueta:
 Para escribir un párrafo con contenido en negrita:
 <p>  texto visible  <strong>  texto visible en negrita  <strong>  texto visible  </p>
 
-```
 Para que sirven cada etiqueta que viene dentro del cuerpo de texto 
-```
 <html lang=”en”>
 <head> contenido no visible por los visitantes
 <meta charset=“UTF - 8”> añade la (ç, ñ, …)
@@ -164,5 +162,3 @@ Para poner una linia horizontal separadora se hace con esta etiqueta:
 <hr>
 
  ```
-
- 
