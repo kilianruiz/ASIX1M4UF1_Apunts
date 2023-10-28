@@ -161,4 +161,18 @@ Seleccionas la carpeta donde esta, luego eliges la imagen que quieres poner, jus
 Para poner una linia horizontal separadora se hace con esta etiqueta:
 <hr>
 
+Para ir de un sitio a otro haciendo click en alguna frase:
+<a href="#Primer plato: Almejas a la marinera">Volver a arriba</a>
+<h1 id="Primer plato: Almejas a la marinera">Primer plato: Almejas a la marinera</h1>
+Esto lo que nos hace es que cuando le demos click a "Volver a arriba" nos llevará a "Primer plato: Almejas a la marinera"
+
+Otro ejemplo seria:
+<ul>
+    <li><a href="#Ingredientes">Ingredientes</a></li>
+</ul>
+Esto lo que hace es que cuando le des click a "Ingredientes" que esta en una lista desordenada, te lleve al apartado de Ingredientes, pero para que te lleve hay que poner lo siguiente:
+    <h2><a id="Ingredientes">Ingredientes</a></h2>
+Esto es un título llamado Ingredientes el cual es a donde nos llevará porque con el href="" lo que indicamos es de donde sale mientras que con el id="" indicamos a donde va a parar.
+Otro dato importante es que al hacer click nos lleva a un apartado que hemos elegido pero dentro de esa misma página ya que le hemos puesto un # para que sepa que no es ningún link ni un apartado de otra página.
+
  ```
