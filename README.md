@@ -83,11 +83,26 @@ Tambien se pueden crear submenus dentro de estas listas dandole al tab y poniend
 
 * Primera lista desordenada con un asterisco
     1. Primer submenú con número y punto
+
+    ```
+    1. Primer submenú con número y punto
+    ```
+
     2. Segundo submenú con número y punto
+
+    ```
+    2. Segundo submenú con número y punto
+    ```
 
 * Segunda lista desordenada con un asterisco
     * Tercer submenú con asterisco 
+    ```
+    * Tercer submenú con asterisco 
+    ```
     * Cuarto submenú con asterisco 
+    ```
+    * Cuarto submenú con asterisco 
+    ```
 
 _Para escribir un texto en cursiva se puede hacer de dos maneras, mediante un asterisco al principio y el al final o con una barra baja al inicio y al final de la frase tal como se puede ver en la imagen:_
 ![Imagen de dos palabras en cursiva](https://github.com/kilianruiz/ASIX1M4UF1_Apunts/blob/main/Captura%20de%20pantalla%202023-10-16%20173048.png)
