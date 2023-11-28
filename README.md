@@ -324,7 +324,7 @@ Si queremos ir de una pagina a otra haciendo click en una palabra se hace tal qu
 
 ```<a href="./primer_plato/index2.html">Primer plato: Almejas a la marinera</a>```
 
-Ponemos un href="" dentro de la etiqueta ```<a>``` indicando a donde quiero ir con un ./ y la direccion del html al que quiero ir y justo despues la palabra a la cual haremos click para que nos lleve hasta allí
+Ponemos un ```href=""``` dentro de la etiqueta ```<a>``` indicando a donde quiero ir con un ./ y la direccion del html al que quiero ir y justo despues la palabra a la cual haremos click para que nos lleve hasta allí
 
 Si queremos hacer que nos lleve a otra pagina pero haciendo click en una foto es tal que asi:
 
@@ -349,8 +349,8 @@ Esto lo que hace es que cuando le des click a "Ingredientes" que esta en una lis
 
 ```<h2><a id="Ingredientes">Ingredientes</a></h2>```
 
-Esto es un título llamado Ingredientes el cual es a donde nos llevará porque con el href="" lo que indicamos es de donde sale mientras que con el id="" indicamos a donde va a parar.
-Otro dato importante es que al hacer click nos lleva a un apartado que hemos elegido pero dentro de esa misma página ya que le hemos puesto un # para que sepa que no es ningún link ni un apartado de otra página.
+Esto es un título llamado Ingredientes el cual es a donde nos llevará porque con el ```href=""``` lo que indicamos es de donde sale mientras que con el ```id=""``` indicamos a donde va a parar.
+Otro dato importante es que al hacer click nos lleva a un apartado que hemos elegido pero dentro de esa misma página ya que le hemos puesto un ```#``` para que sepa que no es ningún link ni un apartado de otra página.
 
 
 
