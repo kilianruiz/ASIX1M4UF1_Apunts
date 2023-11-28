@@ -180,12 +180,15 @@ Quedaria tal que asi:
 ![Imagen](https://github.com/kilianruiz/ASIX1M4UF1_Apunts/blob/main/1.png)
 
 Para escribir un párrafo:
+
 ```<p>```    texto visible    ```</p>```
 
 Para escribir unpárrafo con etiqueta:
+
 ```<p class=”valor”>```     texto visible       ```</p>```
 
 Para escribir un párrafo con contenido en negrita:
+
 ```<p>```  texto visible  ```<strong>```  texto visible en negrita  ```<strong>```  texto visible  ```</p>```
 
 Para que sirven cada etiqueta que viene dentro del cuerpo de texto 
