@@ -2,7 +2,7 @@
 
 ## Introducción a GITHUB
 
-Para empezar, hay que crear un repositorio y para esto tendremos que ir a nuestro perfil (arriba a la derecha) hacer click ahi y entrar en ```Your repositories```, una vez dentro saldra una pestaña de color verde la cual pondra ```NEW```, una vez hecho nos llevará a esta pantalla:
+Para empezar, hay que crear un repositorio y para esto tendremos que ir a nuestro perfil (arriba a la derecha) hacer click ahí y entrar en ```Your repositories```, una vez dentro saldra una pestaña de color verde la cual pondrá ```NEW```, una vez hecho nos llevará a esta pantalla:
 
 <br>
 
@@ -10,9 +10,9 @@ Para empezar, hay que crear un repositorio y para esto tendremos que ir a nuestr
 
 <hr>
 
-En el cuadrado de ```Repository name``` pondremos el nombre que queremos que se llame nuestro repositorio y le daremos a que nuestro repositorio sea publico, ademas de darle click a que me añada un README file, una vez hecho todo esto le daremos al boton verde de abajo a la derecha que pone ```Create repository```.
+En el cuadrado de ```Repository name``` pondremos el nombre que queremos que se llame nuestro repositorio y le daremos a que nuestro repositorio sea público, además de darle click a que me añada un README file, una vez hecho todo esto le daremos al boton verde de abajo a la derecha que pone ```Create repository```.
 
-Una vez creado nuestro repositorio tendremos que clonarlo y para esto dentro de nuestro repositorio nos saldrá una pestaña de color verde que pone ```CODE```, le daremos ahi y nos abrirá el despegable de a continuacion:
+Una vez creado nuestro repositorio tendremos que clonarlo y para esto dentro de nuestro repositorio nos saldrá una pestaña de color verde que pone ```CODE```, le daremos ahí y nos abrirá el despegable de a continuación:
 
 <hr>
 
@@ -38,7 +38,7 @@ git push origin main
 
 ## Introducción a Markdown
 
-Para escribir un título se utiliza un corchete "#", cuantos mas corchetes se pongan más pequeño será el título con un máximo de hasta 6 corchetes. Ejemplos:
+Para escribir un título se utiliza un corchete "#", cuantos más corchetes se pongan más pequeño será el título con un máximo de hasta 6 corchetes. Ejemplos:
 
 ```
 
