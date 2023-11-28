@@ -283,7 +283,7 @@ Para hacer una lista desordenada se hace con:
 </ul>
 ```
 
-En cambio para hacer una lista desordenada se hace asi:
+En cambio para hacer una lista ordenada se hace asi:
 ```
 <ol>
     <li>Primero...</li>
@@ -293,9 +293,11 @@ En cambio para hacer una lista desordenada se hace asi:
 ```
 
 Para escribir un párrafo se hace:
+
 ```<p>``` párrafo visible ```</p>```
 
 Para hacer un espacio se hace con la etiqueta:
+
 ```<br>```
 
 Para incorporar una imagen es tal que asi:
