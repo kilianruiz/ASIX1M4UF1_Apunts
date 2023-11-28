@@ -225,21 +225,25 @@ Para poner en negrita un texto se hace con:
 ```<strong>``` texto visible en negrita ```</strong>```
 
 Por ejemplo: si queremos remarcar en negrita una parte de una frase seria tal que asi:
-<li>```<strong>2 k</strong>```de almejas limpias de arena</li>
+<li>```<strong>```2 k```</strong>```de almejas limpias de arena</li>
 
 Para hacer una lista desordenada se hace con:
+```
 <ul>
     <li>2 dientes de ajo</li>
     <li>2 cebollas</li>
     <li>1 hoja de laurel</li>
 </ul>
+```
 
 En cambio para hacer una lista desordenada se hace asi:
+```
 <ol>
     <li>Primero...</li>
     <li>A continuacion...</li>
     <li>Finalmente...</li>
 </ol>
+```
 
 Para escribir un párrafo se hace:
 <p> párrafo visible </p>
