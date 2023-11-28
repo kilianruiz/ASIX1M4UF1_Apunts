@@ -10,7 +10,9 @@ Para empezar, hay que crear un repositorio y para esto tendremos que ir a nuestr
 
 En el cuadrado de ```Repository name``` pondremos el nombre que queremos que se llame nuestro repositorio y le daremos a que nuestro repositorio sea publico, ademas de darle click a que me añada un README file, una vez hecho todo esto le daremos al boton verde de abajo a la derecha que pone ```Create repository```.
 
+Una vez creado nuestro repositorio tendremos que clonarlo y para esto dentro de nuestro repositorio nos saldrá una pestaña de color verde que pone ```CODE```, le daremos ahi y nos abrirá el despegable de a continuacion:
 
+![Imagen de como insertar imagenes](https://github.com/kilianruiz/ASIX1M4UF1_Apunts/blob/main/github.png)
 
 ## Introducción a Markdown
 
