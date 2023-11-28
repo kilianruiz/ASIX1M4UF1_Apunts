@@ -355,3 +355,13 @@ Otro dato importante es que al hacer click nos lleva a un apartado que hemos ele
 
 
 ## Introducción a CSS
+
+El css es una hoja de estilo que sirve para darle estilo y diseño al html por lo que hay que vincular el archivo css al html para que se apliquen los cambios y esto se hace de esta manera:
+
+En el html, dentro del head pondremos esto:
+
+```
+<link rel="stylesheet" href="./estilo.css" type="text/css" />
+```
+
+Donde en el ```href=""``` pondremos ./ y el nombre del archivo que tiene nuestro css y a continuación el tipo de texto que es css, una vez vinculado el archivo css al html podemos empezar a editarlo.
