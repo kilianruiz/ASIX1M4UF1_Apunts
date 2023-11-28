@@ -246,13 +246,13 @@ En cambio para hacer una lista desordenada se hace asi:
 ```
 
 Para escribir un párrafo se hace:
-<p> párrafo visible </p>
+```<p>``` párrafo visible ```</p>```
 
 Para hacer un espacio se hace con la etiqueta:
-<br>
+```<br>```
 
 Para incorporar una imagen es tal que asi:
- <img src="../img/almejas en agua.webp" alt="almejas en agua" width="200">
+```<img src="../img/almejas en agua.webp" alt="almejas en agua" width="200">```
 Seleccionas la carpeta donde esta, luego eliges la imagen que quieres poner, justo despues de alt="" entre las comillas pones un titulo que quieras que salga cuando pongas el cursor encima y en width eliges el tamaño de px que quieres que tenga la imagen.
 
 Para poner una linia horizontal separadora se hace con esta etiqueta:
