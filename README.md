@@ -172,12 +172,26 @@ De tal manera que quedaria tal que asi:
 
 ## Introducción a HTML
 
-```
+
 Para crear un cuerpo de texto para poder escribir
+```
 HTML:5
 ```
 Quedaria tal que asi:
-![Imagen](https://github.com/kilianruiz/ASIX1M4UF1_Apunts/blob/main/1.png)
+
+```
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+</body>
+</html>
+````
 
 Para escribir un párrafo:
 
