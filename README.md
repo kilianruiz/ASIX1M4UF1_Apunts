@@ -173,7 +173,7 @@ De tal manera que quedaria tal que asi:
 ## Introducción a HTML
 
 
-Para crear un cuerpo de texto para poder escribir
+Para crear un cuerpo de texto para poder escribir hay que escribir lo siguiente:
 ```
 HTML:5
 ```
