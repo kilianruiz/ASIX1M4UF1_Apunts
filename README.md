@@ -45,15 +45,39 @@ Para crear una lista desordenada, se pueden hacer de diferentes tipos mediante u
 
 * Primera lista desordenada con un asterisco
 
+```
+* Primera lista desordenada con un asterisco
+```
+
 * Segunda lista desordenada con un asterisco
+
+```
+* Segunda lista desordenada con un asterisco
+```
 
 - Tercera lista desordenada con un signo de resta
 
+```
+- Tercera lista desordenada con un signo de resta
+```
+
 - Cuarta lista desordenada con un signo de resta
+
+```
+- Cuarta lista desordenada con un signo de resta
+```
 
 + Quinta lista desordenada con un signo de suma
 
+```
++ Quinta lista desordenada con un signo de suma
+```
+
 +  Sexta lista desordenada con un signo de suma
+
+```
++  Sexta lista desordenada con un signo de suma
+```
 
 Tambien se pueden crear submenus dentro de estas listas dandole al tab y poniendo un numero junto con un punto y un espacio a continuacion o en vez de un numero se puede añadir un asterisco:
 
