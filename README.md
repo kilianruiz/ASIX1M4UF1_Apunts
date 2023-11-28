@@ -178,17 +178,18 @@ HTML:5
 ```
 Quedaria tal que asi:
 ![Imagen](https://github.com/kilianruiz/ASIX1M4UF1_Apunts/blob/main/1.png)
-```
+
 Para escribir un párrafo:
-<p>    texto visible    </p>
+```<p>```    texto visible    ```</p>```
 
 Para escribir unpárrafo con etiqueta:
-<p class=”valor”>     texto visible       </p>
+```<p class=”valor”>```     texto visible       ```</p>```
 
 Para escribir un párrafo con contenido en negrita:
-<p>  texto visible  <strong>  texto visible en negrita  <strong>  texto visible  </p>
+```<p>```  texto visible  ```<strong>```  texto visible en negrita  ```<strong>```  texto visible  ```</p>```
 
 Para que sirven cada etiqueta que viene dentro del cuerpo de texto 
+```
 <html lang=”en”>
 <head> contenido no visible por los visitantes
 <meta charset=“UTF - 8”> añade la (ç, ñ, …)
@@ -199,18 +200,18 @@ Aquí vendrá todo el contenido de la página visible
 Hay etiquetas de bloque y etiquetas de líneas
 </body>
 </html>
-
+```
 Para hacer un título / encabezado se hace con:
- <h1> texto visible </h1> 
- <h2> texto visible </h2>
- <h3> texto visible </h3>
- <h4> texto visible </h4>
- <h5> texto visible </h5>
- <h6> texto visible </h6>
+ ```<h1>``` texto visible ```</h1>```
+ ```<h2>``` texto visible ```</h2>```
+ ```<h3>``` texto visible ```</h3>```
+ ```<h4>``` texto visible ```</h4>```
+ ```<h5>``` texto visible ```</h5>```
+ ```<h6>``` texto visible ```</h6>```
 De modo que contra mas grande sea el número mas pequeña es la tipografia
 
 Para poner en negrita un texto se hace con:
-<strong> texto visible en negrita </strong>
+```<strong>``` texto visible en negrita ```</strong>```
 
 Por ejemplo: si queremos remarcar en negrita una parte de una frase seria tal que asi:
 <li><strong>2 k</strong> de almejas limpias de arena</li>
@@ -267,6 +268,6 @@ Esto lo que hace es que cuando le des click a "Ingredientes" que esta en una lis
 Esto es un título llamado Ingredientes el cual es a donde nos llevará porque con el href="" lo que indicamos es de donde sale mientras que con el id="" indicamos a donde va a parar.
 Otro dato importante es que al hacer click nos lleva a un apartado que hemos elegido pero dentro de esa misma página ya que le hemos puesto un # para que sepa que no es ningún link ni un apartado de otra página.
 
- ```
+
 
 ## Introducción a CSS
