@@ -2,6 +2,7 @@
 
 ## Introducción a GITHUB
 
+Para empezar, hay que crear un repositorio y para esto tendremos que ir a nuestro perfil (arriba a la derecha) hacer click ahi y entrar en ```Your repositories```
 
 ## Introducción a Markdown
 
