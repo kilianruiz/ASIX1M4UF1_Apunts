@@ -4,6 +4,8 @@
 
 Para empezar, hay que crear un repositorio y para esto tendremos que ir a nuestro perfil (arriba a la derecha) hacer click ahi y entrar en ```Your repositories```, una vez dentro saldra una pestaña de color verde la cual pondra ```NEW```, una vez hecho nos llevará a esta pantalla:
 
+<br>
+
 ![Imagen de github](https://github.com/kilianruiz/ASIX1M4UF1_Apunts/blob/main/github.png)
 
 <hr>
@@ -11,6 +13,8 @@ Para empezar, hay que crear un repositorio y para esto tendremos que ir a nuestr
 En el cuadrado de ```Repository name``` pondremos el nombre que queremos que se llame nuestro repositorio y le daremos a que nuestro repositorio sea publico, ademas de darle click a que me añada un README file, una vez hecho todo esto le daremos al boton verde de abajo a la derecha que pone ```Create repository```.
 
 Una vez creado nuestro repositorio tendremos que clonarlo y para esto dentro de nuestro repositorio nos saldrá una pestaña de color verde que pone ```CODE```, le daremos ahi y nos abrirá el despegable de a continuacion:
+
+<hr>
 
 ![Imagen desplegable](https://github.com/kilianruiz/ASIX1M4UF1_Apunts/blob/main/desplegable.png)
 
