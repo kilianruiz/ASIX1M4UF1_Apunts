@@ -121,7 +121,7 @@ __*Este texto esta en cursiva:*__
 ```
 Para insertar una imagen hay que abrir corchetes para introducir muy brevemente lo que se ve en la imagen, justo depues de los corchetes se abren parentesis y dentro de estos se pone el link de la imagen que tiene que estar subida en nuestro repositorio de github, de tal manera que tendria que quedar tal como en la imagen de a continuación:
 
-![Imagen de como insertar imagenes]()
+![Imagen de como insertar imagenes](https://github.com/kilianruiz/ASIX1M4UF1_Apunts/blob/main/planeta.jpg)
 
 Para crear columans hay que hacer tal como en la imagen:
 
