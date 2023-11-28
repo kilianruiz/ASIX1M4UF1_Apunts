@@ -266,18 +266,25 @@ y quedaria tal que asi:
 <hr>
 
 Para ir de un sitio a otro haciendo click en alguna frase:
-<a href="#Primer plato: Almejas a la marinera">Volver a arriba</a>
-En esta parte lo que hacemos es introducir un href="" dentro de la etiqueta <a> indicando a donde queremos ir, en este caso a "#Primer plato: Almejas a la marinera" haciendo click en el texto de "Volver arriba" y le ponemos el "#" a Primer plato para indicar que a donde queremos que nos lleve esta en esa pagina y no de otra.
+
+```<a href="#Primer plato: Almejas a la marinera">Volver a arriba</a>```
+
+En esta parte lo que hacemos es introducir un href="" dentro de la etiqueta ```<a>``` indicando a donde queremos ir, en este caso a "#Primer plato: Almejas a la marinera" haciendo click en el texto de "Volver arriba" y le ponemos el "#" a Primer plato para indicar que a donde queremos que nos lleve esta en esa pagina y no de otra.
 
 Si queremos ir de una pagina a otra haciendo click en una palabra se hace tal que asi:
-<a href="./primer_plato/index2.html">Primer plato: Almejas a la marinera</a>
-Ponemos un href="" dentro de la etiqueta <a> indicando a donde quiero ir con un ./ y la direccion del html al que quiero ir y justo despues la palabra a la cual haremos click para que nos lleve hasta allí
+
+```<a href="./primer_plato/index2.html">Primer plato: Almejas a la marinera</a>```
+
+Ponemos un href="" dentro de la etiqueta ```<a>``` indicando a donde quiero ir con un ./ y la direccion del html al que quiero ir y justo despues la palabra a la cual haremos click para que nos lleve hasta allí
 
 Si queremos hacer que nos lleve a otra pagina pero haciendo click en una foto es tal que asi:
-<a href="./segundo_plato/index3.html">Segundo plato: Calabazines rellenos de carne picada <br><img src="./img/segundo plato.webp" alt="Calabazines rellenos de carne picada" width="400"></a>
-Lo que hemos hecho es lo mismo que arriba pero introduciendo un img scr="direccion de la imagen" dentro de la etiqueta <a> para que cuando hagamos tanto click en la imagen como en la frase de Segundo plato... nos lleve al otro html que queremos.
 
-<h1 id="Primer plato: Almejas a la marinera">Primer plato: Almejas a la marinera</h1>
+```<a href="./segundo_plato/index3.html">Segundo plato: Calabazines rellenos de carne picada <br><img src="./img/segundo plato.webp" alt="Calabazines rellenos de carne picada" width="400"></a>```
+
+Lo que hemos hecho es lo mismo que arriba pero introduciendo un img scr="direccion de la imagen" dentro de la etiqueta ```<a>``` para que cuando hagamos tanto click en la imagen como en la frase de Segundo plato... nos lleve al otro html que queremos.
+
+```<h1 id="Primer plato: Almejas a la marinera">Primer plato: Almejas a la marinera</h1>```
+
 Esto lo que nos hace es que cuando le demos click a "Volver a arriba" nos llevará a "Primer plato: Almejas a la marinera"
 
 
