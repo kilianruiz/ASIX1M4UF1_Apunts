@@ -14,6 +14,14 @@ Una vez creado nuestro repositorio tendremos que clonarlo y para esto dentro de 
 
 ![Imagen desplegable](https://github.com/kilianruiz/ASIX1M4UF1_Apunts/blob/main/desplegable.png)
 
+<hr>
+
+Copiaremos el link que nos sale y abriremos el terminal en el cual introduciremos lo siguiente:
+
+```
+git clone (link del repositorio que hemos copiado anteriormente)
+```
+
 ## Introducción a Markdown
 
 Para escribir un título se utiliza un corchete "#", cuantos mas corchetes se pongan más pequeño será el título con un máximo de hasta 6 corchetes. Ejemplos:
