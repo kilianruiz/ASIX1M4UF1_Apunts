@@ -364,4 +364,4 @@ En el html, dentro del head pondremos esto:
 <link rel="stylesheet" href="./estilo.css" type="text/css" />
 ```
 
-Donde en el ```href=""``` pondremos ./ y el nombre del archivo que tiene nuestro css y a continuación el tipo de texto que es css, una vez vinculado el archivo css al html podemos empezar a editarlo.
+En el ```href=""``` pondremos ./ y el nombre del archivo que tiene nuestro css y a continuación el tipo de texto que es css, una vez vinculado el archivo css al html podemos empezar a editarlo.
