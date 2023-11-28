@@ -10,6 +10,8 @@ Para empezar, hay que crear un repositorio y para esto tendremos que ir a nuestr
 
 En el cuadrado de ```Repository name``` pondremos el nombre que queremos que se llame nuestro repositorio y le daremos a que nuestro repositorio sea publico, ademas de darle click a que me añada un README file, una vez hecho todo esto le daremos al boton verde de abajo a la derecha que pone ```Create repository```.
 
+
+
 ## Introducción a Markdown
 
 Para escribir un título se utiliza un corchete "#", cuantos mas corchetes se pongan más pequeño será el título con un máximo de hasta 6 corchetes. Ejemplos:
