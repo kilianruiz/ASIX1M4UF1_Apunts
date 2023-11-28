@@ -225,7 +225,7 @@ Para poner en negrita un texto se hace con:
 ```<strong>``` texto visible en negrita ```</strong>```
 
 Por ejemplo: si queremos remarcar en negrita una parte de una frase seria tal que asi:
-<li> ```<strong>``` 2 k ```</strong>``` de almejas limpias de arena</li>
+```<strong>``` 2 k ```</strong>``` de almejas limpias de arena
 
 Para hacer una lista desordenada se hace con:
 ```
