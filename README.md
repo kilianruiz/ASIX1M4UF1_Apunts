@@ -110,12 +110,15 @@ _Este texto esta en cursiva_
 *Este texto esta en cursiva*
 ```
 
-__Para escribir un texto en negrita se puede hacer de dos maneras también, mediante dos asteriscos tanto al principio como al final o con dos barras bajas tanto al principio como al final tal como se puede ver en la imagen:__
-![Imagen de dos palabras en negrita](https://github.com/kilianruiz/ASIX1M4UF1_Apunts/blob/main/Captura%20de%20pantalla%202023-10-16%20173114.png)    
-
-__*Para escribir un texto en cursiba y negrita habra que hacerlo tal como en la foto que hay a contiuación*__
-![Imagen de un texto en negrita y en cursiva](https://github.com/kilianruiz/ASIX1M4UF1_Apunts/blob/main/Captura%20de%20pantalla%202023-10-16%20173135.png)
-
+__Para escribir un texto en negrita se puede hacer de dos maneras también, mediante dos asteriscos tanto al principio como al final o con dos barras bajas tanto al principio como al final tal como se puede ver a continuacion:__
+```
+__Este texto esta en cursiva__
+**Este texto esta en cursiva**
+```
+__*Para escribir un texto en cursiba y negrita habra que hacerlo tal como se ve a contiuación*__
+```
+__*Este texto esta en cursiva:*__
+```
 Para insertar una imagen hay que abrir corchetes para introducir muy brevemente lo que se ve en la imagen, justo depues de los corchetes se abren parentesis y dentro de estos se pone el link de la imagen que tiene que estar subida en nuestro repositorio de github, de tal manera que tendria que quedar tal como en la imagen de a continuación:
 
 ![Imagen de como insertar imagenes](https://github.com/kilianruiz/ASIX1M4UF1_Apunts/blob/main/Captura%20de%20pantalla%202023-10-16%20175347.png)
