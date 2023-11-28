@@ -26,6 +26,16 @@ Copiaremos el link que nos sale y abriremos el terminal en el cual introduciremo
 git clone (link del repositorio que hemos copiado anteriormente)
 ```
 
+Y de esta forma podremos editar desde local y luego mediante estos comandos en el terminal podremos subirlo a github:
+
+```
+git init
+git add .
+git commit -m "nombre identificativo de lo que estamos subiendo"
+git push origin main
+```
+
+
 ## Introducción a Markdown
 
 Para escribir un título se utiliza un corchete "#", cuantos mas corchetes se pongan más pequeño será el título con un máximo de hasta 6 corchetes. Ejemplos:
