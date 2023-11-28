@@ -4,7 +4,7 @@
 
 Para empezar, hay que crear un repositorio y para esto tendremos que ir a nuestro perfil (arriba a la derecha) hacer click ahi y entrar en ```Your repositories```, una vez dentro saldra una pestaña de color verde la cual pondra ```NEW```, una vez hecho nos llevará a esta pantalla:
 
-![Imagen de como insertar imagenes]()
+![Imagen de como insertar imagenes](https://github.com/kilianruiz/ASIX1M4UF1_Apunts/blob/main/github.png)
 
 ## Introducción a Markdown
 
