@@ -163,8 +163,11 @@ Para poner una linia horizontal separadora se hace con esta etiqueta:
 
 Para ir de un sitio a otro haciendo click en alguna frase:
 <a href="#Primer plato: Almejas a la marinera">Volver a arriba</a>
+En esta parte lo que hacemos es introducir un ```href=""``` dentro de la etiqueta ```<a>``` indicando a donde queremos ir, en este caso a "Primer plato: Almejas a la marinera" haciendo click en el texto de "Volver arriba".
+
 <h1 id="Primer plato: Almejas a la marinera">Primer plato: Almejas a la marinera</h1>
 Esto lo que nos hace es que cuando le demos click a "Volver a arriba" nos llevará a "Primer plato: Almejas a la marinera"
+
 
 Otro ejemplo seria:
 <ul>
