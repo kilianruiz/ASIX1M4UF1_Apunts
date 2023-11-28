@@ -1,8 +1,13 @@
 # ASIX1M4UF1A3_Apunts
 
+## Introducción a GITHUB
+
+
 ## Introducción a Markdown
 
 Para escribir un título se utiliza un corchete "#", cuantos mas corchetes se pongan más pequeño será el título con un máximo de hasta 6 corchetes. Ejemplos:
+
+```
 
 ## Título grande con dos corchetes
 
@@ -13,6 +18,8 @@ Para escribir un título se utiliza un corchete "#", cuantos mas corchetes se po
 ##### Título pequeño con cinco corchetes
 
 ###### Título más pequeño con seis corchetes
+
+```
 
 Para crear una lista ordenada es tan simple como poner el numero y un punto a continuacion:
 
@@ -187,3 +194,5 @@ Esto es un título llamado Ingredientes el cual es a donde nos llevará porque c
 Otro dato importante es que al hacer click nos lleva a un apartado que hemos elegido pero dentro de esa misma página ya que le hemos puesto un # para que sepa que no es ningún link ni un apartado de otra página.
 
  ```
+
+## Introducción a CSS
