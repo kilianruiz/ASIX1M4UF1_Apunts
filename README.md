@@ -24,8 +24,22 @@ Para escribir un título se utiliza un corchete "#", cuantos mas corchetes se po
 Para crear una lista ordenada es tan simple como poner el numero y un punto a continuacion:
 
 1. Primera opción de menú
+
+```
+1. Primera opción de menú
+```
+
 2. Segunda opción de menú
+
+```
+2. Segunda opción de menú
+```
+
 3. Segunda opción de menú
+
+```
+3. Segunda opción de menú
+```
 
 Para crear una lista desordenada, se pueden hacer de diferentes tipos mediante un asterisco, mediante un signo de resta y mediante un signo de suma:
 
