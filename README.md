@@ -493,6 +493,13 @@ Afecta a todos los elementos ```<a>``` del documento ```HTML```.
 * Selecctor de clase:
 
 ```
+.example {
+   property: value;
+   property2: value2;
+}
+```
+
+```
 <p class="example">
 <li class="example">
 ```
@@ -502,7 +509,46 @@ Afecta a todos los elementos que tengan un atributo ```class=""``` con el valor 
 * Selector de id: 
 
 ```
+#example {
+   property: value;
+   property2: value2;
+}
+```
+
+```
 <p id="example">
 ```
 
 Afecta a todos los elementos ```HTML``` que tienen un atributo ```id=""``` con el valor especificado.
+
+* Selector universal: 
+
+```
+* {
+    background-color: darkcyan;
+}
+```
+
+Afecta a todo el documento ```HTML``` de tal manera que el fondo de todo el documento seria de color ```darkcyan```.
+
+* Selector de hijos:
+
+```
+h3>strong {
+    color: blue;
+}
+```
+
+Afecta a todos los elementos ```<strong>``` que son hijos de un ```<h3>```.
+
+* Selector de descendientes:
+```
+div strong{
+    color: blue;
+}
+```
+
+Un ejemplo para ver las diferencias entre un selector de hijos y de descendientes:
+
+![Diferencias entre selectores](https://github.com/kilianruiz/ASIX1M4UF1_Apunts/blob/main/github.png)
+
