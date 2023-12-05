@@ -247,6 +247,7 @@ En HTML hay varias etiquetas las cuales sirven para "marcar" el texto de una pá
 <hr>
 <br>
 <img>
+<link>
 ```
 Aparte de las etiquetas tambien hay atributos como por ejemplo:
 
@@ -256,6 +257,8 @@ href=""
 id=""
 alt=""
 witdh=""
+rel=""
+type=""
 ```
 
 Para escribir un párrafo:
@@ -388,7 +391,7 @@ Otro dato importante es que al hacer click nos lleva a un apartado que hemos ele
 
 ## Introducción a CSS
 
-El css es una hoja de estilo que sirve para darle estilo y diseño al html por lo que hay que vincular el archivo css al html para que se apliquen los cambios y esto se hace de esta manera:
+El css es una hoja de estilo que sirve para darle estilo y diseño al html por lo que una de las maneras es vincular el archivo css al html para que se apliquen los cambios y esto se hace de esta manera:
 
 En el html, dentro del head pondremos esto:
 
@@ -397,3 +400,60 @@ En el html, dentro del head pondremos esto:
 ```
 
 En el ```href=""``` pondremos ./ y el nombre del archivo que tiene nuestro css y a continuación el tipo de texto que es css, una vez vinculado el archivo css al html podemos empezar a editarlo.
+
+
+Los estilos se pueden asociar de diferentes maneras a los elementos HTML dado que estos pueden estar ubicados en diferentes sitios como por ejemplo:
+
+* En la cabecera del documento:
+
+Aquí lo que podemos ver es como todas las etiquetas ```<p>``` tendran un color rojo y estará el texto alineado al centro.
+
+```
+          <!DOCTYPE html>
+          <html lang="ca">
+             <head>
+                <!-- ... →
+               <style> 
+                  p { 
+                    text-align:center; 
+                    color:red 
+                  } 
+                </style>
+             </head>
+             <body>
+
+```
+* En la propia etiqueta:
+
+Aquí lo que podemos ver es como dentro de la etiqueta ```<p>``` hemos añadido un atributo para dar estilo a esa etiqueta ```style=""``` poniendo dentro de las comillas el estilo que le queremos dar al texto.
+
+```
+<p style="text-align:center; color:red">Paràgraf centrat vermell</p>
+```
+
+* En un documento externo: 
+
+Se coloca las propiedades de estilo en un documento externo con extensión ```.css``` y desde el documento ```HTML``` se enlaza con esta hoja de estilo con la etiqueta ```<link>``` dentro del elemento ```<head>```. Por ejemplo:
+
+```
+<! DOCTYPE html> 
+<html>
+   <head>
+ <link rel="stylesheet" href="estils.css" type="text/css" />
+   </head>
+   <body>
+      <p>Paràgraf centrat vermell</p>
+   </body>
+</html>
+```
+
+y el fichero estilos.css el siguiente contenido:
+
+```
+p {
+      text-align: center;
+      color: red;
+}
+```
+
+El hecho de usar una hoja aparte para el diseño en ```.css``` es que podemos utilizar esta misma hoja para diferentes documentos ```HTML```
