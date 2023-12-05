@@ -552,3 +552,4 @@ Un ejemplo para ver las diferencias entre un selector de hijos y de descendiente
 
 ![Diferencias entre selectores](https://github.com/kilianruiz/ASIX1M4UF1_Apunts/blob/main/selector.png)
 
+En un selector de hijos como se ve en el de la imagen podemos ver que solo afecta a los ```<em>``` que estan dentro de un ```<div>``` mientras que un selector de descendientes afecta a los ```<em>``` que estan dentro de un ```<div>``` sin importar que dentro de este haya otra etiqueta como es en el ejemplo.
