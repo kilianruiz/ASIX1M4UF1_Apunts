@@ -391,16 +391,7 @@ Otro dato importante es que al hacer click nos lleva a un apartado que hemos ele
 
 ## Introducción a CSS
 
-El css es una hoja de estilo que sirve para darle estilo y diseño al html por lo que una de las maneras es vincular el archivo css al html para que se apliquen los cambios y esto se hace de esta manera:
-
-En el html, dentro del head pondremos esto:
-
-```
-<link rel="stylesheet" href="./estilo.css" type="text/css" />
-```
-
-En el ```href=""``` pondremos ./ y el nombre del archivo que tiene nuestro css y a continuación el tipo de texto que es css, una vez vinculado el archivo css al html podemos empezar a editarlo.
-
+El css es una hoja de estilo que sirve para darle estilo y diseño a uno o varios documentos html.
 
 Los estilos se pueden asociar de diferentes maneras a los elementos HTML dado que estos pueden estar ubicados en diferentes sitios como por ejemplo:
 
@@ -421,8 +412,8 @@ Aquí lo que podemos ver es como todas las etiquetas ```<p>``` tendran un color 
                 </style>
              </head>
              <body>
-
 ```
+
 * En la propia etiqueta:
 
 Aquí lo que podemos ver es como dentro de la etiqueta ```<p>``` hemos añadido un atributo para dar estilo a esa etiqueta ```style=""``` poniendo dentro de las comillas el estilo que le queremos dar al texto.
@@ -456,4 +447,62 @@ p {
 }
 ```
 
-El hecho de usar una hoja aparte para el diseño en ```.css``` es que podemos utilizar esta misma hoja para diferentes documentos ```HTML```
+El hecho de usar una hoja aparte para el diseño en ```.css``` es que podemos utilizar esta misma hoja para diferentes documentos ```HTML```.
+
+Una hoja de estilos es un conjunto de reglas las cuales definen la estética de un documento HTML, cada una de estas reglas esta formada por un selector y por un conjunto de declaraciones:
+
+```
+   selector{ 
+        declaració_1 
+        ... 
+        declaració_n 
+   }
+```
+
+Un ejemplo real seria asi:
+
+```
+   p {
+        font-size: 10pt;
+        background-color: gray;
+   }
+```
+
+Donde la ```p``` es el selector que tiene dos declaraciones.
+
+Para agrupar selectores se puede hacer con una ```,``` tal que así:
+
+```
+h1,p {color: green}
+```
+
+Y de esta manera tanto los elementos de las etiquetas ```<h1>``` como los elementos de las etiquetas ```<p>``` tendrán un color verde.
+
+Existen diferentes tipos de selectores:
+
+* Selector de elementos: 
+
+```
+a {
+   color: red;
+}
+```
+
+Afecta a todos los elementos ```<a>``` del documento ```HTML```.
+
+* Selecctor de clase:
+
+```
+<p class="example">
+<li class="example">
+```
+
+Afecta a todos los elementos que tengan un atributo ```class=""``` con el valor especificado del documento ```HTML```.
+
+* Selector de id: 
+
+```
+<p id="example">
+```
+
+Afecta a todos los elementos ```HTML``` que tienen un atributo ```id=""``` con el valor especificado.
