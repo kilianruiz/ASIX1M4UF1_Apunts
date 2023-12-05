@@ -225,6 +225,38 @@ Quedaria tal que asi:
 </body>
 </html>
 ````
+En HTML hay varias etiquetas las cuales sirven para "marcar" el texto de una página web con el fin de dar instrucciones al navegador sobre como mostrarlo:
+
+```
+<a> </a>
+<p> </p>
+<strong> </strong>
+<h1> </h1>
+<h2> </h2>
+<h3> </h3>
+<h4> </h4>
+<h5> </h5>
+<h6> </h6>
+<title> </title>
+<head> </head>
+<body> </body>
+<html> </html>
+<li> </li>
+<ol> </ol>
+<ul> </ul>
+<hr>
+<br>
+<img>
+```
+Aparte de las etiquetas tambien hay atributos:
+
+```
+class=""
+href=""
+id=""
+alt=""
+witdh=""
+```
 
 Para escribir un párrafo:
 
