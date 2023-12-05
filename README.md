@@ -550,5 +550,5 @@ div strong{
 
 Un ejemplo para ver las diferencias entre un selector de hijos y de descendientes:
 
-![Diferencias entre selectores](https://github.com/kilianruiz/ASIX1M4UF1_Apunts/blob/main/github.png)
+![Diferencias entre selectores](https://github.com/kilianruiz/ASIX1M4UF1_Apunts/blob/main/selector.png)
 
