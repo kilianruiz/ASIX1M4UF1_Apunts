@@ -225,7 +225,7 @@ Quedaria tal que asi:
 </body>
 </html>
 ````
-En HTML hay varias etiquetas las cuales sirven para "marcar" el texto de una página web con el fin de dar instrucciones al navegador sobre como mostrarlo:
+En HTML hay varias etiquetas las cuales sirven para "marcar" el texto de una página web con el fin de dar instrucciones al navegador sobre como mostrarlo como por ejemplo:
 
 ```
 <a> </a>
@@ -248,7 +248,7 @@ En HTML hay varias etiquetas las cuales sirven para "marcar" el texto de una pá
 <br>
 <img>
 ```
-Aparte de las etiquetas tambien hay atributos:
+Aparte de las etiquetas tambien hay atributos como por ejemplo:
 
 ```
 class=""
@@ -262,7 +262,7 @@ Para escribir un párrafo:
 
 ```<p>```    texto visible    ```</p>```
 
-Para escribir unpárrafo con etiqueta:
+Para escribir un párrafo con etiqueta:
 
 ```<p class=”valor”>```     texto visible       ```</p>```
 
