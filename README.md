@@ -349,6 +349,8 @@ y quedaria tal que asi:
 
 <hr>
 
+La etiqueta ```<div> </div>``` es un tipo de bloque sin significado semantico que sirve para agrupar un texto i/o otros elementos.
+
 Para ir de un sitio a otro haciendo click en alguna frase:
 
 ```<a href="#Primer plato: Almejas a la marinera">Volver a arriba</a>```
@@ -387,7 +389,55 @@ Esto lo que hace es que cuando le des click a "Ingredientes" que esta en una lis
 Esto es un título llamado Ingredientes el cual es a donde nos llevará porque con el ```href=""``` lo que indicamos es de donde sale mientras que con el ```id=""``` indicamos a donde va a parar.
 Otro dato importante es que al hacer click nos lleva a un apartado que hemos elegido pero dentro de esa misma página ya que le hemos puesto un ```#``` para que sepa que no es ningún link ni un apartado de otra página.
 
+Para hacer tablas tenemos diferentes etiquetas:
 
+```<table>``` Para crear una tabla tenemos que marcar el inicio y final de la tabla con esta etiqueta ```</table>```
+
+Dentro de la etiqueta ```<table>``` tenemos diferentes etiquetas las cuales sirven para dividir la tabla en el encabezado, el cuerpo y el pie de página mediante las siguientes etiquetas:
+
+```<thead>``` Esta etiqueta se utiliza para el encabezado de la tabla ```</thead>```.
+
+```<tbody>``` Esta etiqueta se utiliza para el cuerpo de la tabla ```</tbody>```.
+
+```<tfoot>``` Esta etiqueta se utiliza para el pie de pagina de la tabla ```</tfoot>```.
+
+Dentro de cada una de estas 3 agrupaciones utilizaremos las siguientes etiquetas, cada uno para su debido uso:
+
+La etiqueta ```<tr> </tr>``` se utiliza para poner filas dentro de la tabla.
+
+Dentro de estas etiquetas ```<tr> </tr>``` se pondran las etiquetas ```<th> </th>``` para la parte del encabezado para resaltar esa fila de las otras.
+
+Dentro de estas etiquetas ```<tr> </tr>``` se pondran las etiquetas ```<td> </td>``` las cuales se usan para celdas regulares que contienen datos.
+
+Un ejemplo de una tabla con su encabezado ```<thead>``` resaltando la fila del encabezado con ```<th> </th>``` y su cuerpo ```<tbody>``` rellenando las celdas con las etiquetas ```<td> </td>``` seria tal que asi:
+
+```
+<table border="1">
+    <thead>
+      <tr>
+        <th>Encabezado de Columna 1</th>
+        <th>Encabezado de Columna 2</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Dato 1 fila 1</td>
+        <td>Dato 2 fila 1</td>
+      </tr>
+      <tr>
+        <td>Dato 1 fila 2</td>
+        <td>Dato 2 fila 2</td>
+      </tr>
+    </tbody>
+  </table>
+```
+El cual quedaria visualmente asi:
+
+
+
+Si queremos hacer o poner algun tipo de comentario en un documento ```HTML``` seria mediante el siguente comando:
+
+```<!-- Este es un comentario en HTML -->```
 
 ## Introducción a CSS
 
