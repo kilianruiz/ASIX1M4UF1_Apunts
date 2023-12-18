@@ -433,7 +433,7 @@ Un ejemplo de una tabla con su encabezado ```<thead>``` resaltando la fila del e
 ```
 El cual quedaria visualmente asi:
 
-
+![Imagen de una tabla](https://github.com/kilianruiz/ASIX1M4UF1_Apunts/blob/main/img/tabla.png)
 
 Si queremos hacer o poner algun tipo de comentario en un documento ```HTML``` seria mediante el siguente comando:
 
