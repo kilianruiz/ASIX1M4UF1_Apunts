@@ -636,3 +636,14 @@ Hay ciertas condiciones que hay que saber como se usan:
 ```float: left;``` Hace que los contenedores se vayan poniendo hacia la izquierda.
 
 ``` *{ box-sizing: border-box; } ``` Condición para que funcionen las anteriores como el ```display: flex;```.
+
+```
+ @media only screen and (max-witdh: 700px){
+    .column3{
+        width:100%;
+    }
+    .column3{
+        width:50%;
+    }
+ }
+ ```
