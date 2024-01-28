@@ -614,3 +614,23 @@ Un ejemplo para ver las diferencias entre un selector de hijos y de descendiente
 ![Diferencias entre selectores](https://github.com/kilianruiz/ASIX1M4UF1_Apunts/blob/main/img/selector.png)
 
 En un selector de hijos como se ve en el de la imagen podemos ver que solo afecta a los ```<em>``` que estan dentro de un ```<div>``` mientras que un selector de descendientes afecta a los ```<em>``` que estan dentro de un ```<div>``` sin importar que dentro de este haya otra etiqueta como es en el ejemplo.
+
+Hay ciertas condiciones que hay que saber como se usan:
+
+```height: 100vh;``` Una imagen con una altura vertical del 100 es decir que ocupe toda la pantalla.
+
+```background-image:``` Poner una imagen de fondo para que se pueda escribir encima de esta.
+
+```background-size: cover;``` Pega la imagen a todo el contenedor.
+
+```background-position: center;``` Poner la imagen centrada. 
+
+```background-attachment: fixed;``` Poner la imagen fija de modo que cuando se suba para arriba la página haga como un efecto de que la imagen se queda debajo de la pagina.
+
+```display: flex;``` Establece un contenedor como contenedor flexible permitiendo así la creación de un diseño de caja flexible.
+
+```align-items: center;```  Alinea los elemento verticalmente en el centro.
+
+```justify-content: center;``` Alinea los elementos horizontalmente en el centro.
+
+```float: left;``` Hace que los contenedores se vayan poniendo hacia la izquierda.
