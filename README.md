@@ -637,12 +637,13 @@ Hay ciertas condiciones que hay que saber como se usan:
 
 ``` *{ box-sizing: border-box; } ``` Condición para que funcionen las anteriores como el ```display: flex;```.
 
+Este código lo que establece es que cuando la pantalla tenga un ancho máximo de 700px hará que los elementos con la clase column3 seran del 100% mientras que los elementos con la clase column2 seran del 50% cuando el ancho del contenedor sea igual o menor a 700px.
 ```
  @media only screen and (max-witdh: 700px){
     .column3{
         width:100%;
     }
-    .column3{
+    .column2{
         width:50%;
     }
  }
