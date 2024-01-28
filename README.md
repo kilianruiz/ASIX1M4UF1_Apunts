@@ -634,3 +634,5 @@ Hay ciertas condiciones que hay que saber como se usan:
 ```justify-content: center;``` Alinea los elementos horizontalmente en el centro.
 
 ```float: left;``` Hace que los contenedores se vayan poniendo hacia la izquierda.
+
+``` *{ box-sizing: border-box; } ``` Condición para que funcionen las anteriores como el ```display: flex;```.
