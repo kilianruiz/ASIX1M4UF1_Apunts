@@ -353,13 +353,13 @@ El elemento ```<div></div>``` es un contenedor que se utiliza para estructurar y
 
 Hay varias etiquetas que se utilizan igual que el ```<div>``` pero tienen un nombre diferente y estas son:
 
-```<header></header>```
+```<header> Se utiliza para hacer un contenedor en el encabezado de una página</header>```
 
-```<section></section>```
+```<section> Se utiliza para hacer un contenedor por el cuerpo de la pagina</section>```
 
-```<article></article>```
+```<article> Se utiliza para hacer un contenedor por el cuerpo de la pagina</article>```
 
-```<footer></footer>```
+```<footer> Se utiliza para hacer un contenedor en el pie de página</footer>```
 
 Para ir de un sitio a otro haciendo click en alguna frase:
 
