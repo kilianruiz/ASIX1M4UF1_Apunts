@@ -351,6 +351,16 @@ y quedaria tal que asi:
 
 El elemento ```<div></div>``` es un contenedor que se utiliza para estructurar y organizar el contenido de una página web, es una etiqueta sin un significado semántico pero es útil para el diseño o maquetación de una página web.
 
+Hay varias etiquetas que se utilizan igual que el ```<div>``` pero tienen un nombre diferente y estas son:
+
+```<header></header>```
+
+```<section></section>```
+
+```<article></article>```
+
+```<footer></footer>```
+
 Para ir de un sitio a otro haciendo click en alguna frase:
 
 ```<a href="#Primer plato: Almejas a la marinera">Volver a arriba</a>```
