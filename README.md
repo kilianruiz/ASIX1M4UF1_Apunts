@@ -349,7 +349,7 @@ y quedaria tal que asi:
 
 <hr>
 
-La etiqueta ```<div> </div>``` es un tipo de bloque sin significado semantico que sirve para agrupar un texto i/o otros elementos.
+El elemento ```<div></div>``` es un contenedor que se utiliza para estructurar y organizar el contenido de una página web, es una etiqueta sin un significado semántico pero es útil para el diseño o maquetación de una página web.
 
 Para ir de un sitio a otro haciendo click en alguna frase:
 
@@ -438,6 +438,7 @@ El cual quedaria visualmente asi:
 Si queremos hacer o poner algun tipo de comentario en un documento ```HTML``` seria mediante el siguente comando:
 
 ```<!-- Este es un comentario en HTML -->```
+
 
 ## Introducción a CSS
 
