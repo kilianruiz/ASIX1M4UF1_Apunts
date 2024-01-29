@@ -615,6 +615,10 @@ Un ejemplo para ver las diferencias entre un selector de hijos y de descendiente
 
 En un selector de hijos como se ve en el de la imagen podemos ver que solo afecta a los ```<em>``` que estan dentro de un ```<div>``` mientras que un selector de descendientes afecta a los ```<em>``` que estan dentro de un ```<div>``` sin importar que dentro de este haya otra etiqueta como es en el ejemplo.
 
+
+## Introducción a Diseño responsive
+
+
 Hay ciertas condiciones que hay que saber como se usan:
 
 ```height: 100vh;``` Una imagen con una altura vertical del 100 es decir que ocupe toda la pantalla.
