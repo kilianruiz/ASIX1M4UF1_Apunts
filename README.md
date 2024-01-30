@@ -631,7 +631,7 @@ Hay ciertas condiciones que hay que saber como se usan:
 
 ```background-attachment: fixed;``` Poner la imagen fija de modo que cuando se suba para arriba la página haga como un efecto de que la imagen se queda debajo de la pagina.
 
-```display: flex;``` Establece un contenedor como contenedor flexible permitiendo así la creación de un diseño de caja flexible.
+```display: flex;``` Establece un contenedor flexible permitiendo así la creación de un diseño de caja flexible.
 
 ```align-items: center;```  Alinea los elemento verticalmente en el centro.
 
