@@ -16,7 +16,7 @@ Una vez creado nuestro repositorio tendremos que clonarlo y para esto dentro de 
 
 <hr>
 
-![Imagen desplegable](https://github.com/kilianruiz/ASIX1M4UF1_Apunts/blob/main/img/desplegable.png)
+![Imagen desplegable](./img/desplegable.png)
 
 <hr>
 
@@ -155,10 +155,10 @@ __*Este texto esta en cursiva:*__
 Para insertar una imagen hay que abrir corchetes para introducir muy brevemente lo que se ve en la imagen, justo depues de los corchetes se abren parentesis y dentro de estos se pone el link de la imagen que tiene que estar subida en nuestro repositorio de github, de tal manera que tendria que quedar tal como en la imagen de a continuación:
 
 ```
-![Imagen de como insertar imagenes](https://github.com/kilianruiz/ASIX1M4UF1_Apunts/blob/main/img/planeta.jpg)
+![Imagen de como insertar imagenes](./img/planeta.jpg)
 ```
 
-![Imagen de como insertar imagenes](https://github.com/kilianruiz/ASIX1M4UF1_Apunts/blob/main/img/planeta.jpg)
+![Imagen de como insertar imagenes](./img/planeta.jpg)
 
 Para crear columans hay que hacer tal que asi:
 ```
@@ -443,7 +443,7 @@ Un ejemplo de una tabla con su encabezado ```<thead>``` resaltando la fila del e
 ```
 El cual quedaria visualmente asi:
 
-![Imagen de una tabla](https://github.com/kilianruiz/ASIX1M4UF1_Apunts/blob/main/img/tabla.png)
+![Imagen de una tabla](./img/tabla.png)
 
 Si queremos hacer o poner algun tipo de comentario en un documento ```HTML``` seria mediante el siguente comando:
 
@@ -611,7 +611,7 @@ div strong{
 
 Un ejemplo para ver las diferencias entre un selector de hijos y de descendientes:
 
-![Diferencias entre selectores](https://github.com/kilianruiz/ASIX1M4UF1_Apunts/blob/main/img/selector.png)
+![Diferencias entre selectores](./img/selector.png)
 
 En un selector de hijos como se ve en el de la imagen podemos ver que solo afecta a los ```<em>``` que estan dentro de un ```<div>``` mientras que un selector de descendientes afecta a los ```<em>``` que estan dentro de un ```<div>``` sin importar que dentro de este haya otra etiqueta como es en el ejemplo.
 
