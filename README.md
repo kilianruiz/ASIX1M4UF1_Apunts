@@ -6,7 +6,7 @@ Para empezar, hay que crear un repositorio y para esto tendremos que ir a nuestr
 
 <br>
 
-![Imagen de github](https://github.com/kilianruiz/ASIX1M4UF1_Apunts/blob/main/img/github.png)
+![Imagen de github](./img/github.png)
 
 <hr>
 
